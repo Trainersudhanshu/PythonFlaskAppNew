@@ -4,9 +4,6 @@ from flask import Flask
 from urllib.parse import quote 
 
 def create_app():
-    x=10
-    y=100
-    z=2000000000
     app = Flask(__name__)
 
     @app.route('/')
