@@ -59,4 +59,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: user/gfgflask181:latest
+          tags: user/gfgflask1811:latest
